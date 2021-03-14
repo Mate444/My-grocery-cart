@@ -1,0 +1,20 @@
+body {
+ background-image: url('./market.jpg');
+ image-resolution: auto;
+}
+#app-container{
+  width: 600px;
+  background-color: white;
+  border: solid black 1px;
+  margin: auto;
+  padding: 5px;
+}
+#grocery-cart
+#grocery-items {
+  width: 50%;
+  margin: 1%;
+}
+#grocery-container{
+  display: flex;
+  justify-content: center;
+}
